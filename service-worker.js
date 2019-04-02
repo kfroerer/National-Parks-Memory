@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kfroerer/National-Parks-Memory.git/precache-manifest.4cab5d53f2e03287edaf39fd5a62e1da.js"
+  "/National-Parks-Memory/precache-manifest.16cbd8d160b2329875c7eb667f429b33.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kfroerer/National-Parks-Memory.git/index.html", {
+workbox.routing.registerNavigationRoute("/National-Parks-Memory/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
