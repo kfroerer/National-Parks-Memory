@@ -11,7 +11,7 @@ class Pic extends React.Component {
     };
   }
 
-  onResetGame = () => this.setState({ clicked: false }, this.props.endGame())
+  onResetGame = () => this.setState({ clicked: false }, this.props.onEndGame)
 
   onClick = () => {
     const { onClick: parentOnClick } = this.props;
