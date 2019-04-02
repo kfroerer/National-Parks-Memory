@@ -1,0 +1,63 @@
+
+[
+    {
+        "id": 1,
+        "image": "https://i0.wp.com/americanphototreks.com/apt/wp-content/uploads/2018/06/iStock-935135870.jpg?fit=2119%2C1415&ssl=1",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image":"https://1lifeonearth.com/wp-content/uploads/2016/11/3000-7-DSC_3029.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://media.deseretdigital.com/file/6d3a043742?resize=width_1200&type=jpg&c=14&a=e0717f4c",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://vacationidea.com/pix/img25Hy8R/articles/t-t1_havasu_falls_100652_mobi.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://www.visitcalifornia.com/sites/default/files/styles/welcome_image/public/VCW_D_HS_T1_YosemiteValley_KG-1280x642.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://thumbnails.trvl-media.com/NvOaB1B8uRwubQMQk86ZwtoSSsg=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/6084619/Sequoia-National-Park-203745.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://www.omnihotels.com/-/media/images/hotels/gpirst/activities/gpirst-omni-grove-park-inn-great-smoky-mountain.jpg?h=660&la=en&w=1170",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://assets3.thrillist.com/v1/image/2785849/size/tl-full_width_tall_c_2x.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "http://www.traveller.com.au/content/dam/images/h/1/1/9/m/0/image.related.articleLeadwide.620x349.h119h3.png/1528777843195.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://npca.s3.amazonaws.com/images/10406/d4e4dd13-bd5e-4a09-9e34-32d26b0dbdcd-banner.jpg?1469810788",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/27340e3f-c735-4ff2-a36d-58bb4b6fcdbc-vtm701882dd5eb7c2a3b.jpg?i=true&q=85&w=1200",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://www.nationalparks.org/sites/default/files/styles/wide_1x/public/shutterstock_176085914.jpg?itok=9mYpmG4q",
+        "clicked": false
+    }
+]
