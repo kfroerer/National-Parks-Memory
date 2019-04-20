@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/National-Parks-Memory/precache-manifest.16cbd8d160b2329875c7eb667f429b33.js"
+  "/National-Parks-Memory/precache-manifest.2b0853d6d38a2b653139988bb58dac6a.js"
 );
 
 workbox.clientsClaim();
