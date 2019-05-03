@@ -17,6 +17,7 @@ Feel inspired?? Be sure to visit these gorgeous parks!
 Featured parks include: 
 Arches, Big Bend, Carlsbad Caverns, Glacier, Grand Canyon, Great Smoky Mountains, Mesa Verde, Olympic, Sequoia, Yellowstone, Yosemite, and Zion's.
 
-Want to try it? Clone the repo, type yarn install in the command line, and you're ready to go.
+Want to try it? Clone the repo, type yarn (or npm install) in the command line, and you're ready to go.
 
+![](Memory.gif)
 
